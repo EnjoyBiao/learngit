@@ -10,7 +10,7 @@
       <input type="text" v-model="pass_child">
      <child :title="pass_child" @fromchild="getchild" >
        <div slot="slot1">
-         <h3 >插槽1</h3>
+         <h3 >插槽12</h3>
        </div>
 
        <h4 slot="slot2" slot-scope="props">插槽2{{props.text}}</h4>
