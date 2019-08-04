@@ -7,6 +7,7 @@
       <span>Creating a new bran dev master 新增dev</span>
       <p>这是Dev，正在上面做相关操作，但是马上去master上修改bug</p>
       <span>我是Dev</span>
+      <span>我是Dev1</span>
     </div>
 </template>
 
